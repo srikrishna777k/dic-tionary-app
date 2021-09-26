@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dic-tionary-app/static/css/main.6d2ee9c5.chunk.css",
+    "main.js": "/dic-tionary-app/static/js/main.b50e7119.chunk.js",
+    "main.js.map": "/dic-tionary-app/static/js/main.b50e7119.chunk.js.map",
+    "runtime-main.js": "/dic-tionary-app/static/js/runtime-main.166a53ee.js",
+    "runtime-main.js.map": "/dic-tionary-app/static/js/runtime-main.166a53ee.js.map",
+    "static/js/2.a7a60c89.chunk.js": "/dic-tionary-app/static/js/2.a7a60c89.chunk.js",
+    "static/js/2.a7a60c89.chunk.js.map": "/dic-tionary-app/static/js/2.a7a60c89.chunk.js.map",
+    "index.html": "/dic-tionary-app/index.html",
+    "static/css/main.6d2ee9c5.chunk.css.map": "/dic-tionary-app/static/css/main.6d2ee9c5.chunk.css.map",
+    "static/js/2.a7a60c89.chunk.js.LICENSE.txt": "/dic-tionary-app/static/js/2.a7a60c89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166a53ee.js",
+    "static/js/2.a7a60c89.chunk.js",
+    "static/css/main.6d2ee9c5.chunk.css",
+    "static/js/main.b50e7119.chunk.js"
+  ]
+}
