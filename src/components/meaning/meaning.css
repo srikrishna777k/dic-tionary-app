@@ -1,0 +1,33 @@
+.meanings {
+  display: flex;
+  flex-direction: column;
+  /* overflow-y: auto; */
+  scrollbar-width: thin;
+  overflow-x: hidden;
+  height: 50vh;
+  border: 10px solid rgb(105, 105, 105);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.enter {
+  font-size: 5vw;
+  font-family: 'Montserrat', sans-serif;
+}
+.def {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+  margin: 10px 0px;
+}
+.type {
+  display: block;
+}
+.break {
+  width: 100%;
+}
+.audio {
+  background-color: #fff;
+  border-radius: 20px;
+}
